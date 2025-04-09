@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991157567808",
+    "project_id": "pruebakiking",
+    "storage_bucket": "pruebakiking.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991157567808:android:bc8f80903a1ca2abc2faa5",
+        "android_client_info": {
+          "package_name": "rodriguez.enrique.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOm-4R8FRoOWOdZeYd2QZ7pliJsmEdhgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
